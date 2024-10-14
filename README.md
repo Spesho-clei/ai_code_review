@@ -1,4 +1,5 @@
 AI-Powered Code Review Assistant
+
 This is a Python-based command-line tool that performs code reviews using popular linters and security tools such as Pylint, Flake8, and Bandit. The tool analyzes Python files for code quality, style, performance, and security issues, and provides explanations for the detected issues.
 
 Features
