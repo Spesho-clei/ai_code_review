@@ -1,0 +1,5 @@
+{
+    "pylint_path": "pylint",
+    "flake8_path": "flake8",
+    "bandit_path": "bandit"
+}
